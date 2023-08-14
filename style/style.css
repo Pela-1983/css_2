@@ -1,0 +1,142 @@
+ 
+  
+.titulo{
+    background-image: url(/Imagenes/design1_image1.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover ;
+    padding: 150px;
+    
+}
+.titulo img{
+    width: 100%;
+    height: 100%;
+}
+
+.titulo h1{
+    color: rgb(0, 17, 255);
+    font-size: 90px;
+    position: absolute; 
+    top: -10%;
+    right: 350px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+
+
+.logo{
+    background-size: cover;
+    position: absolute;
+     margin: -190px 0px 0px 1300px;
+    width: 150px;
+}
+
+.events{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    position: relative;
+    top: -50px;
+
+    font-size: 30px;
+    background: rgb(253, 2, 2);
+  
+        
+}
+
+.primer{ 
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
+
+.segundo{
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
+
+.tercer{
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}    
+
+div{
+    
+    margin-top: 50px;
+}
+
+.primer1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    margin-top: -215px;
+    padding-left: 180px;
+    font-style: italic;
+
+}
+
+.primer2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+   
+    margin-top: -25px;
+    padding-left: 180px;
+    
+font-style: italic;
+
+}
+
+.primer3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    margin-top: -20px;
+    padding-left: 180px;
+    
+
+font-style: italic;
+
+}
+
+.segundo1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    
+margin-top: -20px;
+padding-left: 200px;
+}
+
+.segundo2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    
+    margin-top: -20px;
+    padding-left: 200px
+
+}
+
+.segundo3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    
+    margin-top: -20px;
+    padding-left: 200px
+}
+
+.con{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    
+    margin-top: -160px;
+    padding-left: 200px
+}
+
+.con1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    
+    margin-top: -20px;
+    padding-left: 200px
+}
+
+
+    

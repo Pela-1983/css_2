@@ -1,0 +1,84 @@
+ *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+ }
+ .header{
+   width: 100vw;
+}
+
+ .titulo h1{
+   color: rgb(2, 3, 0);
+   position: relative;
+    font-size: 80px;
+    top: -190px;
+    right: 100px;
+   }
+ 
+ .titulo {
+    background-image: url(../Imagenes/design1_image2.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 100px;
+    position: relative;
+    top: 80px;
+ }   
+
+ .primer{
+    font-size: 30px;
+    background-color: blue;
+    padding: 0px 5px 0px 5px;
+    border: 3px solid black;
+    position: absolute;
+    left: 1150px;  
+   margin-top: -340px;
+ }   
+
+ .segundo{
+    display: flex;
+   font-size: 30px;
+    border: 3px solid black;
+ }
+
+ .tercer{
+    font-size: 30px;
+    background-color: blue;
+    padding: 0px 5px 0px 5px;
+    border: 3px solid black;
+    position: absolute;
+    left: 1450px; 
+    margin-top: -340px;
+}
+
+ .logo{
+    background-size: cover;
+    position: absolute;
+     margin: -10px 0px 0px 20px;
+    width: 150px;
+    padding-top: 40px;
+}
+
+.primer1, .primer2, .primer3{
+   font-size: 25px;
+   padding-left: 200px;
+   padding-top: 50px;
+}
+
+.segundo1, .segundo2, .segundo3{
+   font-size: 25px;
+   padding-left: 200px;
+}
+
+.events{
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   text-align: center;
+   position: relative;
+   margin-top: 60px;
+   font-size: 40px;
+   background: rgb(253, 2, 2);}
+ 
+.con, .con1{
+      font-size: 25px;
+      padding-left: 200px;
+      padding-top: 50px;
+   }
